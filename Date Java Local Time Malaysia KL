@@ -1,0 +1,27 @@
+// Java program to illustrate 
+// java.util.timezone class 
+import java.text.*; 
+import java.util.*; 
+
+public class TimeZoneDemo { 
+
+	public static void main(String[] args) 
+	{ 
+		// Get your Local Time Zone Where this Program is Running. 
+		TimeZone timezone = TimeZone.getTimeZone("Asia/Kuala_Lumpur"); 
+
+		// Get the Name of Time Zone 
+		String LocalTimeZoneName = timezone.getDisplayName(); 
+
+		// Initialize your Date Object and Date Format to represent your Date 
+		Date date = new Date(); 
+		DateFormat dformat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss"); 
+
+		// set your local time Zone to your Date Format time Zone 
+		dformat.setTimeZone(timezone); 
+
+		// Print Date and Time for your Time Zone 
+		System.out.println("Date and time of your Local Time Zone:"); 
+		System.out.println(  dformat.format(date)); 
+	} 
+} 

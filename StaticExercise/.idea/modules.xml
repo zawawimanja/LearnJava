@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Abstract/Abstract.iml" filepath="$PROJECT_DIR$/../Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Array/Array.iml" filepath="$PROJECT_DIR$/../Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConstructorExercise/ConstructorExercise.iml" filepath="$PROJECT_DIR$/../ConstructorExercise/ConstructorExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Interface/Interface.iml" filepath="$PROJECT_DIR$/../Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InterfaceEx/InterfaceEx.iml" filepath="$PROJECT_DIR$/../InterfaceEx/InterfaceEx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Object/Object.iml" filepath="$PROJECT_DIR$/../Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticExercise.iml" filepath="$PROJECT_DIR$/StaticExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Super/Super.iml" filepath="$PROJECT_DIR$/../Super/Super.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../This/This.iml" filepath="$PROJECT_DIR$/../This/This.iml" />
+    </modules>
+  </component>
+</project>
