@@ -1,0 +1,22 @@
+
+ArrayList<String> list = new ArrayList<String>();
+
+.add("awi");
+.get(0);
+.set(0,"ain");
+.remove(0);
+.clear(); || removeAll(list);
+.size();
+.isEmpty();
+.contain()
+.trimToSize();
+.ensureCapacity(2);
+
+  for (int index = 0; index < c1.size(); index++)
+   System.out.println(c1.get(index));
+ }
+ 
+ for(int index:c1){
+  System.out.println(index);
+ }
+
