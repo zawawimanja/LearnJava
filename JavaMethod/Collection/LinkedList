@@ -2,3 +2,51 @@
 Iterator p = l_list.listIterator(1);
 //interate from second position
 p.hasNext() 
+
+//reverse
+   Iterator it = l_list.descendingIterator();
+   
+   //add
+	l_list.add(1, "Yellow");
+  
+  // Add an element to front of LinkedList
+     l_list.offerFirst("Pink");
+     
+     // Add an element at the end of a linked list
+     l_list.offerLast("Pink");
+     
+       // Find first element of the List
+    Object first_element = l_list.getFirst();
+    
+    
+    
+    // Find last element of the List
+    Object last_element = l_list.getLast();
+    
+    // Removing all the elements from the linked list
+    l_list.clear();
+    
+    /Swapping 1st(index 0) element(Red) with the 3rd(index 2) element (Black)
+    Collections.swap(l_list, 0, 2);
+    
+    //clone
+     (LinkedList)c1.clone();
+     
+     //remove
+     c1.pop());
+     
+       // Retrieve but does not remove, the first element of a linked list
+    String x = c1.peekFirst();
+    
+       // Retrieve but does not remove, the last element of a linked list
+        String x = c1.peekLast();
+        
+           //Convert a linked list to array list    
+     List<String> list = new ArrayList<String>(linked_list);
+     
+     // Replacing 2nd element with new value
+          c1.set(1, "Orange");
+     
+     
+     
+    
