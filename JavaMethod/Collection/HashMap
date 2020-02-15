@@ -1,0 +1,29 @@
+ hash_map.put(5, "Blue");
+  for(Map.Entry x:hash_map.entrySet()){  
+   System.out.println(x.getKey()+" "+x.getValue());  
+  }  
+  
+   // get keyset value from map
+   Set keyset = hash_map.keySet();
+
+
+//count total
+.size
+
+// put all values in secondmap
+  hash_map2.putAll(hash_map1);
+  
+  //clear
+   hash_map.clear();
+   
+   //check
+   hash_map.containsKey("Green")
+   
+   //value
+   hash_map.containsValue("Green")
+   
+   //clone
+   new_hash_map = (HashMap)hash_map.clone();  
+   
+   / checking collection view of the map
+   System.out.println("Collection view is: "+ hash_map.values());
