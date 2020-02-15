@@ -1,0 +1,4 @@
+//index 1
+Iterator p = l_list.listIterator(1);
+//interate from second position
+p.hasNext() 
