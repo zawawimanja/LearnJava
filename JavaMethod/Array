@@ -1,5 +1,5 @@
-toString 
-sort 
+toString              - convert array to sring
+sort                  - sort array
 fill 
 equal
 copyofrange 
