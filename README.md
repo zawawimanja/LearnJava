@@ -4,10 +4,11 @@ Java
 
 Application Server - TOMCAT
 
-Frameworks - SPRING
+Frameworks - Spring Boot, Spring MVC
 
 Datanase = PostgreSQL , MySQL
 
+Unit Test - Junit
 
 
 
