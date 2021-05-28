@@ -6,7 +6,7 @@ Application Server - TOMCAT
 
 Frameworks - Spring Boot, Spring MVC
 
-Datanase = PostgreSQL , MySQL
+Database = PostgreSQL , MySQL
 
 Unit Test - Junit
 
