@@ -1,17 +1,15 @@
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Basic
-1.foreach -loop array
-2.byte - 128 127
-3.for loop -know number of loops
+1. foreach -loop array
+2. byte - 128 127
+3. for loop -know number of loops
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Application Server - TOMCAT
-
-Frameworks - Spring Boot, Spring MVC
-
-Database = PostgreSQL , MySQL
-
-Unit Test - Junit
+1. Application Server - TOMCAT
+2. Frameworks - Spring Boot, Spring MVC
+3. Database = PostgreSQL , MySQL
+4. Unit Test - Junit
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 OOP
