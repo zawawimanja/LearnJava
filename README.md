@@ -17,6 +17,9 @@ OOP
 3. polymorphism - like inheritance, extends keywords, same method but different output 
 4. abstraction - cannot create object,abstract & extends keywords,no method body in abstract class
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+foreach -loop array
 Constructor - to initialize value
 Inner class - in the outer class
 interface - like abstract ,implement keywords,no method body in interface class
