@@ -1,6 +1,9 @@
-# Java
-Java
 
+Basic
+1.foreach -loop array
+2.byte - 128 127
+3.for loop -know number of loops
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Application Server - TOMCAT
 
@@ -17,9 +20,10 @@ OOP
 3. polymorphism - like inheritance, extends keywords, same method but different output 
 4. abstraction - cannot create object,abstract & extends keywords,no method body in abstract class
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-foreach -loop array
-Constructor - to initialize value
-Inner class - in the outer class
-interface - like abstract ,implement keywords,no method body in interface class
+
+
+1. Constructor - to initialize value
+2. Inner class - in the outer class
+3. interface - like abstract ,implement keywords,no method body in interface class
