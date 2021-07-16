@@ -4,6 +4,8 @@ Basic
 1. foreach -loop array
 2. byte - 128 127
 3. for loop -know number of loops
+4. Array - size cannot modified,cannot add,remove
+5. Array List -  access random items frequently, add or remove elements at the end of the list
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Application Server - TOMCAT
