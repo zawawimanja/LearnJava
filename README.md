@@ -6,6 +6,7 @@ Basic
 3. for loop -know number of loops
 4. Array - size cannot modified,cannot add,remove
 5. Array List -  access random items frequently, add or remove elements at the end of the list
+6. HashMap - store items in "key/value" pairs
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Application Server - TOMCAT
@@ -24,7 +25,7 @@ OOP
 
 
 
-1. Constructor - to initialize value
+1. Constructor - to initialize value,called when an object of a class is created
 2. Inner class - in the outer class
 3. interface - like abstract ,implement keywords,no method body
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
